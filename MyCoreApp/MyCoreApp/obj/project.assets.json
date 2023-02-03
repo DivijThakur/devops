@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\sem3\\Cloud Computing\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+      "projectUniqueName": "E:\\sem4\\Devops\\comp367thakur-lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
       "projectName": "MyCoreApp",
-      "projectPath": "E:\\sem3\\Cloud Computing\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+      "projectPath": "E:\\sem4\\Devops\\comp367thakur-lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
       "packagesPath": "C:\\Users\\divij\\.nuget\\packages\\",
-      "outputPath": "E:\\sem3\\Cloud Computing\\MyCoreApp\\MyCoreApp\\obj\\",
+      "outputPath": "E:\\sem4\\Devops\\comp367thakur-lab1\\MyCoreApp\\MyCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\divij\\AppData\\Roaming\\NuGet\\NuGet.Config",
